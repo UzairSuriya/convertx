@@ -16,7 +16,7 @@ A clean, responsive, and lightweight web application that allows users to conver
 * **CSS3:** Custom properties (variables), Flexbox layout, and responsive design.
 * **JavaScript (ES6+):** Async/await, DOM manipulation, and `fetch()` API calls.
 * **APIs Used:** 
-  * [Fawaz Ahmed Currency API](https://github.com/fawaz-ahmed/currency-api) for conversion data.
+  * [All Rates Today Currency API](https://allratestoday.com) for conversion data.
   * [Flags API](https://flagsapi.com/) for country flag icons.
 
 ## 📖 How to Use
